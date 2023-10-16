@@ -1,0 +1,62 @@
+body
+{
+	margin: auto;
+	background-color: teal;
+}
+.nav-bar
+{
+	background-color: black;
+	margin: auto;
+	padding: 90px;
+}
+img
+{
+	text-align: center;
+	width: 350px;
+	height: 120px;
+	display:block;
+	margin:0 auto;
+	padding: 10px;
+}
+h1
+{
+  text-align: center;
+}
+.box
+{
+  text-align: center;
+}
+footer
+{
+	background-color:black;
+	color: white;
+	position: fixed;
+	bottom: 4px;
+	width: 100%;
+	text-align: center;
+}
+footer a
+{
+	padding: 3px;
+	margin: 6px;
+	text-decoration:underline;
+	color:blue;
+	display: inline-block;
+}
+nav a
+{
+	text-align: left;
+	margin: 6px;
+	padding: 5px;
+	text-decoration:underline;
+	color:blue;
+	display: inline-block;
+}
+.box
+{
+	text-align: center;
+	/*width: 350px;*/
+	display:block;
+	margin:0 auto;
+	padding: 10px;
+}
