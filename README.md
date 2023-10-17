@@ -1,3 +1,6 @@
+
+![profile](https://github.com/iamashwinikoli/React-Profile-Page/assets/123724123/6740b5b0-d6d3-4d37-b915-25641ec598eb)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
